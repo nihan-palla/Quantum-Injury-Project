@@ -9,6 +9,9 @@ This project also incorporates the often-overlooked psychological component of r
 ## Usage
 
 1.Clone the repository
+
 2.Download the necesary packages using pip install
+
 3.Add your dataset file collegiate_athlete_injury_dataset.csv into the project directory
+
 4.Run quantum_injury.ipynb to see results
